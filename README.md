@@ -1,3 +1,11 @@
+# Celebrare Web Development Assignment
+
+Technologies
+Celebrare uses the following technologies:
+
+- React.JS: For making a logic and Efficiency in Code.
+- BootStrap: Styling UI and Pad for creating the visual layout.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
